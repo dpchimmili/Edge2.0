@@ -1,6 +1,6 @@
 # Edge2.0
-Edge 2.0 sample project with .NET 3.1 Web API and ReactJs
-This project is to showcase technical capabilities to work on .NET 3.1 Web API and ReactJS applications.
+Edge 2.0 sample solution with .NET 3.1 Web API and ReactJs projects.
+This solution is to showcase technical capabilities to work on .NET 3.1 Web API and ReactJS applications.
 
 # Dependencies
 .NET Core 3.1 or later
